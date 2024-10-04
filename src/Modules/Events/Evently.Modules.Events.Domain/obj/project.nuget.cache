@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQAmq6VDJQ4=",
+  "success": true,
+  "projectFilePath": "E:\\Courses\\Milan Jovanovic\\Modular Monolith Architecture\\Code\\evently\\src\\Modules\\Events\\Evently.Modules.Events.Domain\\Evently.Modules.Events.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed\\.nuget\\packages\\sonaranalyzer.csharp\\9.24.0.89429\\sonaranalyzer.csharp.9.24.0.89429.nupkg.sha512",
+    "C:\\Users\\Ahmed\\.nuget\\packages\\ulid\\1.3.3\\ulid.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
